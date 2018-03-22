@@ -1,0 +1,8 @@
+/META-INF/
+/hibernate-conf.xml
+/ibatis-conf.xml
+/jpa-containeremf-conf.xml
+/jpa-hibernate-conf.xml
+/jpa-localemf-conf.xml
+/madvirus/
+/sqlMapConfig.xml
