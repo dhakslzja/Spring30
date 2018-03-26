@@ -11,6 +11,7 @@ public class WriteArticleServiceImpl implements WriteArticleService {
     @Override
     public void write(Article article) {
         System.out.println("WriteArticleServiceImpl.write() 메서드 실행");
+        System.out.println("#### 깃허브 1111");
         articleDao.insert(article);
     }
 
